@@ -129,5 +129,5 @@ class SpeechToText:
 
 if __name__ == "__main__":
     Whisper = WhisperModel()
-    SpeechToText = SpeechToText(stt_model=Whisper)
-    SpeechToText.run()
+    SpeechToTextTool = SpeechToText(stt_model=Whisper)
+    SpeechToTextTool.run()
