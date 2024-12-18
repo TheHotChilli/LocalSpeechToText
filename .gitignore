@@ -1,0 +1,4 @@
+.venv/
+test.txt
+test_STT.py
+__pycache__
