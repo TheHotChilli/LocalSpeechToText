@@ -31,7 +31,7 @@ Afterwards the tool will utilize GPU acceleration automatically.
 2. Run the tool using the following command:
 
    ```bash
-   python speech_to_text_tool.py
+   python STT.py
    ```
 
 3. The tool will now wait for hotkey input. Press the defined hotkey combination `ctrl+shift+r` to start the recording.
